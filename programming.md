@@ -160,6 +160,14 @@ Website: https://javascript.info
 
 [![javascript.info](https://user-images.githubusercontent.com/29889620/66137872-5e2ca380-e61b-11e9-9265-1841f4512527.png)](https://javascript.info)
 
+### Namaste Javascript
+
+Presented by Akshay Saini an FrontEnd Engineer at Uber. He presents all the advance and confusing topics simply for the learner to learn. It is a must for preparing a JavaScript Interview
+
+Website: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+
+[![namsteJavaScript](https://user-images.githubusercontent.com/43781668/150206004-004c4592-3a51-4533-9e8e-de25904f042a.png)](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
 
 ## Django
 
